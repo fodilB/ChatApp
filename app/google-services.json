@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "373587573224",
+    "firebase_url": "https://chat-25b31.firebaseio.com",
+    "project_id": "chat-25b31",
+    "storage_bucket": "chat-25b31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373587573224:android:fec92a3b76e05df5",
+        "android_client_info": {
+          "package_name": "com.example.fodil.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "373587573224-8nmmnsbs839nsn1hb0i76b4n905su5rm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fodil.chat",
+            "certificate_hash": "ec5bee532a9c701e7eab6af47c81d80b034363de"
+          }
+        },
+        {
+          "client_id": "373587573224-m0vuejv8mgf8ci1g5d5k7p4ia7t9c129.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-A0LfWGWwHZxb2y0lzgIf3ormV-N3t-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "373587573224-m0vuejv8mgf8ci1g5d5k7p4ia7t9c129.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
